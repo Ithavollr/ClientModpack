@@ -30,7 +30,7 @@ hash = "04dde5eea631d138940e3a98c42cbc27bb6c971b7a18722b2229b9f5a893571a"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "a3fc9c462729f6c362f8f29787e5ce77b7b4a0a0bd866280bdb5d9e610c4136b"
+hash = "9bd6ba58d937a371fc6bb73947e19c75020af78fc16a4a56683e5f289075bb29"
 metafile = true
 
 [[files]]
@@ -44,13 +44,18 @@ hash = "df15648dd4d4e27dd0c45ab4e78277c45886b77a698b129f4ce2d2bc337f7044"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "7986f751d84536043edd1e67178554f6d4c3f01409feae6c151afa7854db5fa2"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "6914cb1d85aed2ba8f3008db6ef068b946d11d94d59427cdbb457d8263e533ca"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "cde649248ca5d9b791fcf10bb45cc1cfbed6b626963839377dcf8ea6c14fd01d"
+hash = "02551a8ead8bb69124fc6c20e0c557b07d6e50f8aaa0b7f586d8300e6f535e98"
 metafile = true
 
 [[files]]
@@ -60,17 +65,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "187026fe5d603008a4b30559103487f0ebf08682bf3e470ab743227f5265a422"
+hash = "d2eb5ab035dc20c69b74419f7330b30a059b9ec528d4cffe7e2b241438564146"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "18e346acc11ee4082d56b804810909a69010a26eb27ac1ac3840489a6ed754fb"
-metafile = true
-
-[[files]]
-file = "mods/ferrite-core.pw.toml"
-hash = "1ef554f7a8d5f7ed4bc21316e034eeef3430dc306012c0a706bd4c3e4ac253aa"
+hash = "b2f2ef63febe17f277635827ca474e1aeae321e8a82bef78942116f95d00250a"
 metafile = true
 
 [[files]]
@@ -104,6 +104,11 @@ hash = "349d55d7426c1a1c0ed2c27892521b04c13ccb86ffe2a929d5184559531546f8"
 metafile = true
 
 [[files]]
+file = "mods/moonrise-opt.pw.toml"
+hash = "ba598ea9e6f85d954b514303049fab2b9666b8c616594adadd51f5316e2be6ed"
+metafile = true
+
+[[files]]
 file = "mods/overflowing-bars.pw.toml"
 hash = "7fd4882592d88ed3d0f5de1a07332097913b4c4ad0df4caedd40917108de4acd"
 metafile = true
@@ -120,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "e9b8be8af0254133f53f4fd63861b227011328960397d99714ab28bf4b35af57"
+hash = "80c35f983a682e64f9272bf95a939a69134a61ffd8788fa7736bcfd0ec8e4d4c"
 metafile = true
 
 [[files]]

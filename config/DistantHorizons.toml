@@ -15,13 +15,13 @@ _version = 3
 	#
 	# Defines the distance allowed to be synchronized around the player. 
 	# Should be the same or larger than maxGenerationRequestDistance in most cases.
-	maxSyncOnLoadRequestDistance = 4096
+	maxSyncOnLoadRequestDistance = 1024
 	#
 	# If true, clients will receive updated LODs when joining or loading new LODs.
 	synchronizeOnLoad = true
 	#
 	# Defines the distance allowed to generate around the player.
-	maxGenerationRequestDistance = 4096
+	maxGenerationRequestDistance = 1024
 	#
 	# Defines the X-coordinate of the central point for generation boundaries, in blocks.
 	generationBoundsX = 0
