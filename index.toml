@@ -6,7 +6,7 @@ hash = "6b0382b16279f26ff69014300541967a356a666eb0b91b422f6862f6b7dad17e"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "60409d6ffae121a264fab9ff5e1a5e79fe5db4c8ec4d846a989e8ebf89f652bf"
+hash = "321fdc9fd33a409c000dc828901de3ad7c4b3fc9855f69343bca86be51f4e84e"
 
 [[files]]
 file = "config/entity_texture_features.json"
@@ -153,4 +153,4 @@ hash = "2e0bfef00c0db500ce9dd07a8fe45af12fbb2be7cf8c601e4e9a590af95b2c18"
 
 [[files]]
 file = "shaderpacks/CompReimi_EuphiPatch.zip.txt"
-hash = "768a2944a2ba962cbed954db5942edfda8b730238b697a41d4f1389c74536763"
+hash = "91b4d096b9ed2b568d1d65ffdb3bc93ee3de83c80eb179dd1464711c08ad8a3a"
