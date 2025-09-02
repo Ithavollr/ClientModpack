@@ -39,6 +39,11 @@ hash = "417e4f42790407e6fb4dfcb03cd4abcdf3aa00f4dcef3f3a2edec1a3e1a9a3ef"
 metafile = true
 
 [[files]]
+file = "mods/better-capes-x.pw.toml"
+hash = "bb3c0b589ac23c16ac36e3082bd190d3f13b90e1ab7589e4d897f4771596075c"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "df15648dd4d4e27dd0c45ab4e78277c45886b77a698b129f4ce2d2bc337f7044"
 metafile = true
