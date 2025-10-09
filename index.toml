@@ -30,7 +30,7 @@ hash = "04dde5eea631d138940e3a98c42cbc27bb6c971b7a18722b2229b9f5a893571a"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "9bd6ba58d937a371fc6bb73947e19c75020af78fc16a4a56683e5f289075bb29"
+hash = "24fc67f388639dcf1334355f3be3c08caa182d3d86e02085b44149391d9e4b5b"
 metafile = true
 
 [[files]]
@@ -70,7 +70,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "d2eb5ab035dc20c69b74419f7330b30a059b9ec528d4cffe7e2b241438564146"
+hash = "2f9f9ae2453a22b27d8a7eef2de12a1c0c17c6783c77a52bf76aeb6b75c96ab5"
 metafile = true
 
 [[files]]
@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "80c35f983a682e64f9272bf95a939a69134a61ffd8788fa7736bcfd0ec8e4d4c"
+hash = "8e5864c60f22563c88de760e176309595f15b9b9112066e2318524b5110db633"
 metafile = true
 
 [[files]]
