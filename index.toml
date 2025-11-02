@@ -25,12 +25,8 @@ file = "config/sodium-options.json"
 hash = "23aaee9c7ca3a8d326235ffa8f7136894735110d51e1f3d4a1ae8b2cb1753832"
 
 [[files]]
-file = "config/xaerominimap.txt"
-hash = "04dde5eea631d138940e3a98c42cbc27bb6c971b7a18722b2229b9f5a893571a"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "24fc67f388639dcf1334355f3be3c08caa182d3d86e02085b44149391d9e4b5b"
+hash = "8b1fb24222af64924580b978ecb5fb05a6968232cd1ec4eaf120a358b3a2b008"
 metafile = true
 
 [[files]]
@@ -55,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "6914cb1d85aed2ba8f3008db6ef068b946d11d94d59427cdbb457d8263e533ca"
+hash = "c78234f57600e23fcd2c08c3514314c630d73c77d3896c15b2cd673e2da9a55c"
 metafile = true
 
 [[files]]
@@ -65,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "81027ef87a38a28907d78c14492be6fdde0e9c1a93a1651b0bedf323b392d639"
+hash = "a82308b089917ad7489bfc8d78671b4f867d53063eba0c150fe6e94881cd5499"
 metafile = true
 
 [[files]]
@@ -125,12 +121,12 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "cdff637d469d95a02e8e7475fce950c0d25bdacf8ae1246c93eea78ad7e16d39"
+hash = "c161cb290f28a6353b3e7d5f496d0f2f8106bec4d6f141e57d4d1c5b8359ffd1"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "8e5864c60f22563c88de760e176309595f15b9b9112066e2318524b5110db633"
+hash = "9d92a0c8f5ee1308c04743c55c8187c478e45fe2a5c95d887d39fa61d1b8f8fb"
 metafile = true
 
 [[files]]
@@ -141,11 +137,6 @@ metafile = true
 [[files]]
 file = "mods/status-effect-bars.pw.toml"
 hash = "8ee85cf9163551e114d900f00a24849ea55d915b30143b778f8125baa792d6da"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "a8c5e8c4dd782fd9f7ab7ceb9471e0941b03d62df0e77e6dae816856d8ceeb21"
 metafile = true
 
 [[files]]
