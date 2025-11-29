@@ -1,0 +1,15 @@
+name = "Yui"
+filename = "Yui-1.0.8-SEED.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Ithavollr/Yui/releases/download/v1.0.8/Yui-1.0.8-SEED.jar"
+hash-format = "sha256"
+hash = "a3aa6356aa1bc5c2b9fa4032e62388920d9aa4e82ff727b8e3fd65ab8a4c5c12"
+
+[update]
+[update.github]
+branch = "main"
+regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
+slug = "Ithavollr/Yui"
+tag = "v1.0.8"

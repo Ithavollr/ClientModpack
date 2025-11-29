@@ -135,8 +135,13 @@ hash = "8ee85cf9163551e114d900f00a24849ea55d915b30143b778f8125baa792d6da"
 metafile = true
 
 [[files]]
+file = "mods/yui.pw.toml"
+hash = "9ec640527993ee410a20738f0303b6330fa57eea38cce2d846612dd3f1179a65"
+metafile = true
+
+[[files]]
 file = "resourcepacks/Ithavollr_rpack.zip"
-hash = "154f182354a3b9f0306c2294b78b8a0f415d130ed49ced0e747104f0ce29b55a"
+hash = "bebf0b4a20e83a88976929ce7e77870c433a7c4fb575e41fc9b41f8129e84e36"
 
 [[files]]
 file = "shaderpacks/CompReimi_EuphiPatch.zip"
