@@ -26,7 +26,7 @@ hash = "23aaee9c7ca3a8d326235ffa8f7136894735110d51e1f3d4a1ae8b2cb1753832"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "8b1fb24222af64924580b978ecb5fb05a6968232cd1ec4eaf120a358b3a2b008"
+hash = "fa247abe720177d7d0aa5fa1124d9d94b172c8b7211276002a21d6e271c998d3"
 metafile = true
 
 [[files]]
@@ -46,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "c78234f57600e23fcd2c08c3514314c630d73c77d3896c15b2cd673e2da9a55c"
+hash = "3df490310b67c9c3ab0879597437260a9078492643636192d78a8829e54b03ea"
 metafile = true
 
 [[files]]
@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "a82308b089917ad7489bfc8d78671b4f867d53063eba0c150fe6e94881cd5499"
+hash = "d03670996f0592cec08a20dcb81227ae6145e8ac483a9b4432dc62569a253e30"
 metafile = true
 
 [[files]]
