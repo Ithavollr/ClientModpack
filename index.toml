@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "74cb7737432f6d41f2b796a7d197d4f098e0d897e8656c62a6760bd094fad493"
+hash = "d799450d9a76a67e82006e6b1c0e825f1ff5397a40353c0b9b5daebe73dd9d45"
 metafile = true
 
 [[files]]
@@ -136,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Ithavollr_rpack.zip"
-hash = "0bc6b0bf581c429ec684a23109998edb1701f4e200cebf6e1dba2561dd3a7838"
+hash = "41a2fe6f74b3adc1bbf02ab77feb625606c26111e5454628b9aa6c6fbe9e8c34"
 
 [[files]]
 file = "shaderpacks/CompReimi_EuphiPatch.zip"
