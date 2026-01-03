@@ -100,11 +100,6 @@ hash = "8ab43846566f21cbac9ab8304fc9364e2ce40418cc7167e3b629313fd9783b2f"
 metafile = true
 
 [[files]]
-file = "mods/modflared.pw.toml"
-hash = "349d55d7426c1a1c0ed2c27892521b04c13ccb86ffe2a929d5184559531546f8"
-metafile = true
-
-[[files]]
 file = "mods/moonrise-opt.pw.toml"
 hash = "ba598ea9e6f85d954b514303049fab2b9666b8c616594adadd51f5316e2be6ed"
 metafile = true
