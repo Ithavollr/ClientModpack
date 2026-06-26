@@ -1,13 +1,13 @@
 name = "Runestones"
 author = "Ifiht"
-version = "4.3.0"
+version = "4.3.1"
 description = "Client modpack for Ithavollr"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b9f00287373aae2a91e4653dd922e7c564c271ef913d10d021c5239bd01cf7dd"
+hash = "54fc633af5c147c72bbd2cc7bca8fb9e7d26d6e9ad975981665a58e0ae2bbece"
 
 [versions]
 fabric = "0.17.3"
