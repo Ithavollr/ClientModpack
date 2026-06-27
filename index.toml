@@ -140,10 +140,6 @@ hash = "9ec640527993ee410a20738f0303b6330fa57eea38cce2d846612dd3f1179a65"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Ithavollr_rpack.zip"
-hash = "28524203c048987733d6dede6549ea7658393285957aeb1e4924fe8825cdf605"
-
-[[files]]
 file = "shaderpacks/CompReimi_EuphiPatch.zip"
 hash = "ba5d4d47ad3e2603bfb079282448a5374628c3e4baf64a2664d0809e3de2828d"
 
