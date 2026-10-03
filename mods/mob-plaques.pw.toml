@@ -1,13 +1,13 @@
 name = "Mob Plaques"
-filename = "MobPlaques-v21.4.0-1.21.4-Fabric.jar"
+filename = "MobPlaques-v21.11.0-mc1.21.11-Fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/3b1CFIR5/versions/NNcfzgN3/MobPlaques-v21.4.0-1.21.4-Fabric.jar"
+url = "https://cdn.modrinth.com/data/3b1CFIR5/versions/8xM1rqfT/MobPlaques-v21.11.0-mc1.21.11-Fabric.jar"
 hash-format = "sha512"
-hash = "ae4cc59f7279fbcd9d56d9412c0f0a2ab8d377c525f3ec0427ac6abf4fa568ea84a80528d4cd1c5f5f15c69648eadde719c994151e4e3b92f5f6f6da56cf307c"
+hash = "b277dd5720f4da774181cdb78e1b9ffbdcd5c22c4fc2119f9d10a1d39895b508f0f03b841b5c3327fc5fcc9995f1daa45554017cc55c5038ee74460daa007892"
 
 [update]
 [update.modrinth]
 mod-id = "3b1CFIR5"
-version = "NNcfzgN3"
+version = "8xM1rqfT"

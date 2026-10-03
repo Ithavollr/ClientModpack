@@ -1,13 +1,13 @@
 name = "Mod Settings"
-filename = "modsettings-1.2.0+1.21.jar"
+filename = "modsettings-1.2.0+1.21.11.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9c57f0934b5b1a70c7427b996074e328c59e9f0f"
+hash = "028475b5921f258231ae8661a0f6875356da60f9"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5425664
+file-id = 8402540
 project-id = 544608
