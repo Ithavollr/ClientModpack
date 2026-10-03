@@ -7,3 +7,14 @@
 /com.unascribed.unsup.json
 /packwiz
 /osx_packwiz
+
+# Gradle build for the Prism instance zip; never part of the synced pack
+/build
+/.gradle
+/gradle
+/gradlew
+/gradlew.bat
+/build.gradle.kts
+/settings.gradle.kts
+/gradle.properties
+/icon.png

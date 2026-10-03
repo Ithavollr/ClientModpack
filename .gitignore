@@ -2,3 +2,7 @@
 *.mrpack
 .DS_Store
 /packwiz
+
+# Gradle (Prism instance zip build)
+/build/
+/.gradle/
