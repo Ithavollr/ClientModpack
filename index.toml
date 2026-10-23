@@ -22,7 +22,7 @@ hash = "b0d5dfacc3acbca806730f3300f2a63e809d99df7dd8eec4d6326efe6e7dfc00"
 
 [[files]]
 file = "config/iris.properties"
-hash = "60a8200d5448b30dd6d2d966308f2213f19cd7c46c9b4975261ecc2bab4dcf44"
+hash = "733abdd48a230f9625e79de236d809a16061023a9275a24ed00df1adbb1f75af"
 
 [[files]]
 file = "config/mobplaques-client.toml"
@@ -75,6 +75,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "bd7f9aadd2352aadb444071e7dc5817e90374020e4a138abf9886578b65c6e95"
+metafile = true
+
+[[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "c1f2d0a1537909b2b2c37aa8576af52f21b6f52ee18048310e48ab7169b87f57"
 metafile = true
 
 [[files]]
@@ -144,3 +149,8 @@ hash = "ba5d4d47ad3e2603bfb079282448a5374628c3e4baf64a2664d0809e3de2828d"
 [[files]]
 file = "shaderpacks/CompReimi_EuphiPatch.zip.txt"
 hash = "f6f8e26b53ee3623daae5c0bf9c018de04a72111ded8e62be149e01083d9f36c"
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "75d1d2488a0c332a9a58af7e57f980a1b006c02b3a1c580fbd50443088e4eab0"
+metafile = true
