@@ -60,6 +60,8 @@ val generatePrismInstance by tasks.registering {
             OverrideMemory=true
             MinMemAlloc=$minMemMiB
             MaxMemAlloc=$maxMemMiB
+            OverrideJavaArgs=true
+            JvmArgs=-XX:+UseZGC
             """.trimIndent() + "\n"
         )
         dir.resolve("mmc-pack.json").writeText(
