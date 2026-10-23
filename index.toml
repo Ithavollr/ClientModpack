@@ -1,8 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/workflows/build.yml"
+hash = "d51694d7b80b961d03b278a7e9c678ce1ae155cbf93a84f79a342551e95acb78"
+
+[[files]]
 file = "LICENSE"
 hash = "6b0382b16279f26ff69014300541967a356a666eb0b91b422f6862f6b7dad17e"
+
+[[files]]
+file = "SHADERS.md"
+hash = "54ae7762d4cf838fb1c4881d0049b655ea09a64ed94adf2984950c701ba0c62d"
 
 [[files]]
 file = "config/DistantHorizons.toml"
@@ -26,7 +34,7 @@ hash = "23aaee9c7ca3a8d326235ffa8f7136894735110d51e1f3d4a1ae8b2cb1753832"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "bd6a99db43d7ec9e2e64438cb415fe0454164cfd386d2f07d7ff4637353d0521"
+hash = "93f2371b90e3c65592bc34fd61b919b78a8c838f97ee7c4c83df4e7d7618801e"
 metafile = true
 
 [[files]]
@@ -36,7 +44,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "3c3301ffe3888fac461d77fd613d5ebdd737e5ce20162bd559ac944f40587caf"
+hash = "ea9de81b1bb06645db0ee635c8e7f3aa8f45ebc0e96317e94a301de2b38361dc"
 metafile = true
 
 [[files]]
@@ -56,17 +64,17 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "3ed63406c4f8f4ae62eb58cefbb852482d29d0ac1129e3ab295cd346d6806333"
+hash = "bcdef89fa1ed3b700771e193f64cb0bbfb380111f135b8283dd2d01e2b06601f"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "0e45e8c4d0aa7c51e594468270b82789398fd69a13dfff44fe9f437819436212"
+hash = "fb983e5ea25f59adc0cfb77929585c165fbcf07578d7727448b329824f166fde"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "8f33605d98a5b0b5c392e86d1c9b147c50e42280ff3b12fb760bbfaae932032d"
+hash = "bd7f9aadd2352aadb444071e7dc5817e90374020e4a138abf9886578b65c6e95"
 metafile = true
 
 [[files]]
